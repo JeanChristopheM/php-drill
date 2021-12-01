@@ -15,6 +15,12 @@
     <a href="/ternary/ternary.php">3. Ternary Exo</a>
     <br />
     <a href="/excuse_generator/index.php">4. Excuse-O-Matic</a>
+    <br />
+    <a href="/arrays/arrays.php">5. Arrays</a>
+    <br />
+    <a href="/request/index.php">6. Request</a>
+    <br />
+    <a href="/functions/index.php">7. Functions</a>
 </body>
 </html>
 
